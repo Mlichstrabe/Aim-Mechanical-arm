@@ -1,0 +1,17 @@
+name: aimooe-ur5e
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - pillow
+  - openpyxl
+  - requests
+  - osqp
+  - pip
+  - pip:
+      - ur-rtde
