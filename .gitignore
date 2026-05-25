@@ -1,8 +1,13 @@
 .idea/
 .claude/
+archive/
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Aimooe runtime binaries (moved from repo root into runtime/)
+!runtime/
+!runtime/**
 
 .venv/
 venv/
